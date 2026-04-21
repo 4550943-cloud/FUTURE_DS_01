@@ -7,6 +7,9 @@ For this task in my Data Science internship, I was challenged to step into the r
 I started with a raw commercial sales dataset. Before diving into the visualizations, I performed essential data cleaning and organization. This ensured that my aggregations for revenue, profit margins, and regional performance were entirely accurate and ready to be presented in a professional, client-facing dashboard.
 
 ## My Key Findings and Insights
+
+![Sales Performance Dashboard](Sales_Dashboard.png)
+
 When I interpreted the data, several critical business trends emerged:
 
 ### Which categories drive the most profit?
@@ -32,3 +35,4 @@ This project allowed me to practice core analyst skills, from data preparation t
 * **Key Skills Applied:** Data Cleaning, KPI Analysis, Trend Identification, Dashboard Creation.
 
 By completing this analysis, I demonstrated how raw transaction data can be transformed into clear, strategic advice that a business owner or startup founder can use to grow their company.
+
