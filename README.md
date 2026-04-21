@@ -31,7 +31,7 @@ Based on the analytics, I suggest the following actionable steps to business sta
 ## Tech Stack and Reflection
 This project allowed me to practice core analyst skills, from data preparation to business storytelling and actionable reporting. 
 
-* **Tools Used:** [Insert tools you used here, e.g., Python / Power BI / Tableau / Excel]
+* **Tools Used:** Python and Excel
 * **Key Skills Applied:** Data Cleaning, KPI Analysis, Trend Identification, Dashboard Creation.
 
 By completing this analysis, I demonstrated how raw transaction data can be transformed into clear, strategic advice that a business owner or startup founder can use to grow their company.
